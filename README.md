@@ -5,7 +5,7 @@ Se trata de un programa que recibe una o más operaciones aritméticas en forma 
 Ej: <br/>
 Operaciones = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"] 
 
-Resultado = 
+Resultado =  <br/>
    32      3801      45      123 <br/>
 + 698    -    2    + 43    +  49 <br/>
 -----    ------    ----    ----- <br/>
